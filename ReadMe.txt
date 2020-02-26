@@ -1,0 +1,1 @@
+Open simulink demo to start through command "sfundemos" to my first step
