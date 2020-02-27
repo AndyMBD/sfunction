@@ -1,2 +1,0 @@
-# sfunction
-simulink s function
